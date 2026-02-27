@@ -1,0 +1,7 @@
+{
+  "funcX": "i/n * 0.9 * cos(a) * pow(abs(cos(a)), -0.333) * abs(cos(a))",
+  "funcY": "i/n * 0.9 * sin(a) * pow(abs(sin(a)), -0.333) * abs(sin(a))",
+  "rangeMin": 0.01,
+  "rangeMax": 6.27,
+  "polar": 0
+}

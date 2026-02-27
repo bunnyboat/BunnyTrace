@@ -1,0 +1,7 @@
+{
+  "funcX": "0.9*sqrt(a/25.13274) * cos(a)",
+  "funcY": "0.9*sqrt(a/25.13274) * sin(a)",
+  "rangeMin": 0.01,
+  "rangeMax": 25.13274,
+  "polar": 0
+}

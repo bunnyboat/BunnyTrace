@@ -1,0 +1,7 @@
+{
+  "funcX": "exp(-0.3*a) * cos(a*3 + i/n*6.28318)",
+  "funcY": "exp(-0.3*a) * sin(a*3 + i/n*6.28318)",
+  "rangeMin": 0.0,
+  "rangeMax": 9.42478,
+  "polar": 0
+}

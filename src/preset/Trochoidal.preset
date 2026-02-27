@@ -1,0 +1,7 @@
+{
+  "funcX": "(a - sin(a)) / 3.14159 - 1",
+  "funcY": "1-2*i/n + (1 - cos(a)) * 0.15",
+  "rangeMin": 0.0,
+  "rangeMax": 6.28318,
+  "polar": 0
+}

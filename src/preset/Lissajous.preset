@@ -1,0 +1,7 @@
+{
+  "funcX": "sin(3*a + i/n * 3.14159)",
+  "funcY": "sin(2*a)",
+  "rangeMin": 0.0,
+  "rangeMax": 6.28318530718,
+  "polar": 0
+}

@@ -1,0 +1,7 @@
+{
+  "funcX": "i/n * (0.714*cos(a) - 0.35*cos(6*a/5))",
+  "funcY": "i/n * (0.714*sin(a) - 0.35*sin(6*a/5))",
+  "rangeMin": 0.0,
+  "rangeMax": 31.41593,
+  "polar": 0
+}

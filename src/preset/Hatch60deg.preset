@@ -1,0 +1,7 @@
+{
+  "funcX": "a",
+  "funcY": "-1.732*a + (1-2*i/n)*2.0",
+  "rangeMin": -0.75,
+  "rangeMax": 0.75,
+  "polar": 0
+}

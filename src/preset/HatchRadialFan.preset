@@ -1,0 +1,7 @@
+{
+  "funcX": "-1 + a",
+  "funcY": "a * tan((-0.5 + i/n) * 1.5708)",
+  "rangeMin": 0.0,
+  "rangeMax": 2.0,
+  "polar": 0
+}

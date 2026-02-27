@@ -1,0 +1,7 @@
+{
+  "funcX": "i/n * (2*a*a/(1+a*a) - 1)",
+  "funcY": "i/n * (2*pow(a,3)/(1+a*a)) * 0.5",
+  "rangeMin": -2.5,
+  "rangeMax": 2.5,
+  "polar": 0
+}

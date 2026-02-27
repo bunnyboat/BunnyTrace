@@ -1,0 +1,7 @@
+{
+  "funcX": "(0.3 + 0.7*i/n) * cos(7*a/2)",
+  "funcY": "",
+  "rangeMin": 0.0,
+  "rangeMax": 12.56637,
+  "polar": 0
+}

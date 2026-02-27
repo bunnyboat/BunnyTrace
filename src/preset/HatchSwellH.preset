@@ -1,0 +1,7 @@
+{
+  "funcX": "a",
+  "funcY": "cos(3.14159*i/n) * 0.95",
+  "rangeMin": -1.0,
+  "rangeMax": 1.0,
+  "polar": 0
+}

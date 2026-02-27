@@ -1,0 +1,7 @@
+{
+  "funcX": "cos(a + i/n*6.28318) / (a + 0.5)",
+  "funcY": "sin(a + i/n*6.28318) / (a + 0.5)",
+  "rangeMin": 0.0,
+  "rangeMax": 9.42478,
+  "polar": 0
+}
