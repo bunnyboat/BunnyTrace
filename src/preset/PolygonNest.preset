@@ -1,6 +1,6 @@
 {
-  "funcX": "i/n * cos(a) / (abs(cos(a - 1.0472*round(a/1.0472))) + 0.001)",
-  "funcY": "i/n * sin(a) / (abs(cos(a - 1.0472*round(a/1.0472))) + 0.001)",
+  "funcX": "i/n * cos(a) / (abs(cos(a - 1.0472*((a/1.0472 + 0.5) - (a/1.0472 + 0.5)%1))) + 0.001)",
+  "funcY": "i/n * sin(a) / (abs(cos(a - 1.0472*((a/1.0472 + 0.5) - (a/1.0472 + 0.5)%1))) + 0.001)",
   "rangeMin": 0.05,
   "rangeMax": 6.23,
   "polar": 0

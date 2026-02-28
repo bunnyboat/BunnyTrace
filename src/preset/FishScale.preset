@@ -1,6 +1,6 @@
 {
   "funcX": "0.18*cos(a) + (i%5)*0.36 - 0.72",
-  "funcY": "0.18*sin(a) - floor(i/5)*0.28 + 0.5",
+  "funcY": "0.18*sin(a) - (i/5 - (i/5)%1)*0.28 + 0.5",
   "rangeMin": 0.0,
   "rangeMax": 3.14159,
   "polar": 0
