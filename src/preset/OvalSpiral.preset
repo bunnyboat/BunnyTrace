@@ -1,0 +1,7 @@
+{
+  "funcX": "a/(4*3.14159) * cos(a)",
+  "funcY": "a/(4*3.14159) * 0.6 * sin(a)",
+  "rangeMin": 0.0,
+  "rangeMax": 12.56637,
+  "polar": 0
+}

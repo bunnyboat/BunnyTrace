@@ -1,0 +1,7 @@
+{
+  "funcX": "cos(5*a)",
+  "funcY": "i/n * sin(5*a) * sin(a)",
+  "rangeMin": 0.0,
+  "rangeMax": 3.14159,
+  "polar": 0
+}

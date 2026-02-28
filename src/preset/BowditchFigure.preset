@@ -1,0 +1,7 @@
+{
+  "funcX": "(0.5 + 0.5*cos(a/8)) * sin(3*a + i/n*3.14159)",
+  "funcY": "(0.5 + 0.5*sin(a/8)) * sin(2*a)",
+  "rangeMin": 0.0,
+  "rangeMax": 50.26548,
+  "polar": 0
+}

@@ -1,0 +1,7 @@
+{
+  "funcX": "(0.2 + 0.8*i/n)*cos(11*a)",
+  "funcY": "",
+  "rangeMin": 0.0,
+  "rangeMax": 3.14159,
+  "polar": 0
+}

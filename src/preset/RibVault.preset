@@ -1,0 +1,7 @@
+{
+  "funcX": "(1-i/n)*a",
+  "funcY": "-(i/n)*sqrt(abs(1-(1-i/n)*(1-i/n)*a*a) + 0.001) + i/n - 0.5",
+  "rangeMin": -1.0,
+  "rangeMax": 1.0,
+  "polar": 0
+}

@@ -1,0 +1,7 @@
+{
+  "funcX": "i/n * 4 * sin(a)*cos(a)*cos(a)",
+  "funcY": "",
+  "rangeMin": 0.0,
+  "rangeMax": 3.14159,
+  "polar": 0
+}
