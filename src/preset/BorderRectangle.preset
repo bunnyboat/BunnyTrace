@@ -1,6 +1,6 @@
 {
-  "funcX": "i/n * 0.9 * cos(a) * pow(abs(cos(a)), -0.333) * abs(cos(a))",
-  "funcY": "i/n * 0.9 * sin(a) * pow(abs(sin(a)), -0.333) * abs(sin(a))",
+  "funcX": "i/n * 0.9 * cos(a) * abs(cos(a))**0.667",
+  "funcY": "i/n * 0.9 * sin(a) * abs(sin(a))**0.667",
   "rangeMin": 0.01,
   "rangeMax": 6.27,
   "polar": 0
